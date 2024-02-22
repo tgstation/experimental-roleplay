@@ -13,6 +13,6 @@
 // END_PREFERENCES
 
 // BEGIN_INCLUDE
-#include "modular_gowen\test.dm"
+#include "modular_erp\test.dm"
 // END_INCLUDE
 
